@@ -8,8 +8,6 @@ All other states:       ground      [reward = 0].
 
 This script is the main part which controls the update method of this example.
 The RL is in RL_brain.py.
-
-View more on my tutorial page: https://morvanzhou.github.io/tutorials/
 """
 
 from maze_env import Maze
